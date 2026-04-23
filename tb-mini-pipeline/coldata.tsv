@@ -1,5 +1,5 @@
-wt_Aligned.out.sam	wildtype
-wt2_Aligned.out.sam	wildtype
+wt1_Aligned.out.sam      wildtype
+wt2_Aligned.out.sam     wildtype
 wt3_Aligned.out.sam	wildtype
 mut_Aligned.out.sam	mutant
 mut2_Aligned.out.sam	mutant
